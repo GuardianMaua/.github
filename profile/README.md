@@ -5,26 +5,13 @@ Guardian Mauá é uma entidade estudantil dedicada ao estudo e desenvolvimento d
 ## 🏗️ Estrutura da Entidade
 A Guardian Mauá se organiza em diversas Frentes, cada uma com objetivos específicos que contribuem para o crescimento do grupo e o desenvolvimento de novas competências:
 ### 1. 📝 **Registro**
-   - Objetivo: Desenvolver técnicas de resolução de desafios CTF (Capture The Flag) e de escrita de write-ups.
-   - Importância: 
-     - **Desenvolvimento de habilidades práticas**: A resolução de CTFs permite que os membros coloquem em prática os conceitos de cyber segurança, trabalhando em desafios reais.
-     - **Aprimoramento da habilidade em resolução de problemas**: Resolver problemas desafiadores ajuda a melhorar o raciocínio lógico.
-     - **Construção de portfólio profissional**: A produção de write-ups cria um portfólio documentado de habilidades, essencial para quem busca se destacar no mercado de trabalho.
+O objetivo desta frente é desenvolver técnicas de resolução de desafios CTF (Capture The Flag) e de escrita de write-ups.
 ### 2. 🔍 **Pesquisa**
-   - Objetivo: Aprofundar o conhecimento em áreas específicas da segurança, tanto ofensiva quanto defensiva.
-   - Importância:
-     - **Especialização em áreas da cibersegurança**: A pesquisa em áreas específicas permite que os membros adquiram expertise em tópicos que vão desde técnicas de exploração até defesa de sistemas.
-     - **Criação de capacitações e artigos**: Produzir conteúdo técnico como capacitações e artigos fortalece o aprendizado e compartilha conhecimento com outros membros e a comunidade.
+Esta frente tem como objetivo aprofundar o conhecimento em áreas específicas da segurança, tanto ofensiva quanto defensiva.
 ### 3. 🔨 **Oficina**
-   - Objetivo: Criar e desenvolver novos desafios CTF para a entidade.
-   - Importância:
-     - **Desenvolvimento de habilidades técnicas**: Criar CTFs é um processo que envolve planejamento, design, e a aplicação de técnicas de segurança avançadas, fortalecendo a compreensão das áreas exploradas.
-     - **Contribuição para a comunidade**: Os CTFs desenvolvidos são usados por outros membros e podem ser disponibilizados para a comunidade.
+O foco dessa frente é criar e desenvolver novos desafios CTF para a entidade. 
 ### 4. 🏆 **Eventos**
-   - Objetivo: Participar de competições e eventos de segurança.
-   - Importância:
-     - **Integração com a comunidade de segurança**: Participar de eventos permite que os membros interajam com especialistas da área, aprendam novas técnicas e ampliem suas redes de contato.
-     - **Visibilidade e reconhecimento**: A participação em eventos de segurança coloca a entidade em destaque, contribuindo para sua reputação e atração de novos membros.
+O objetivo dessa frente é participar de competições e eventos de segurança.
 ## 📂 Repositórios da Guardian Mauá
 ### 1. **frente_oficina**
    - Armazena todos os CTFs desenvolvidos pela entidade.
