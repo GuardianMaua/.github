@@ -19,6 +19,8 @@ O objetivo dessa frente é participar de competições e eventos de segurança.
    - Contém scripts criados para estudo de ferramentas de segurança da informação.
 ### 3. **frente_registro**
    - Armazena os write-ups dos CTFs resolvidos pela entidade.
+### 4. **capacitacao_rev_eng**
+   - Arquivos e scripts utilizados na capacitação de engenharia reversa.
 ## Contato
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/guardian-mauá)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/guardian.maua)
